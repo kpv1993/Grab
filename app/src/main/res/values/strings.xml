@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Grab</string>
+    <string name="retry">Retry</string>
+    <string name="something_went_wrong">Something went wrong..</string>
+    <string name="alien_message">An alien is probably blocking your signal.</string>
+    <string name="forks">1993</string>
+    <string name="stars">1993</string>
+    <string name="lang">C++</string>
+    <string name="description">Genre: Crime, Drama, Thriller</string>
+    <string name="sub_name">Hello</string>
+    <string name="author">Hello</string>
+    <string name="trending">Trending News</string>
+    <string name="apiKey">245e2db34ef84c7ea3ca8ceadaf1fe69</string>
+</resources>
